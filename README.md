@@ -27,4 +27,4 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-<img width="885" height="749" alt="image" src="https://github.com/user-attachments/assets/9a73b653-c19d-49b5-9812-5872475f42a4" />
+![SOC Automation Diagram](https://github.com/user-attachments/assets/7e6eb47f-8c4b-45b4-80ba-16f1e274a751)
