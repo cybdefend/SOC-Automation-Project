@@ -26,5 +26,6 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
+Image below shows the network diagram with the flow chart
+![SOC Automation Diagram](https://github.com/user-attachments/assets/c1a4e201-57ca-46bb-bc8d-0e1f69ba07d3)
 
-![SOC Automation Diagram](https://github.com/user-attachments/assets/7e6eb47f-8c4b-45b4-80ba-16f1e274a751)
