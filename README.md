@@ -16,9 +16,12 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Tools Used
 
 - Wazuh Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Shuffle SOAR to
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Shuffle SOAR for OSINT for IoCs enrichment and send data to theHive for case management.
+- TheHive for alerting, triage and case management.
+- Sysmon on host Windows machine to gather detailed logs and to be ingested into Wazuh.
+- Mimikatz to simulate a cyber attack on the host Windows machine.
+<!-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+Telemetry generation tools to create realistic network traffic and attack scenarios. -->
 
 ## Steps
 <!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
